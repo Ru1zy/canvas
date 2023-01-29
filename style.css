@@ -1,0 +1,7 @@
+#image-container {
+  display: flex;
+  margin-top: 10px;
+}
+#text-info {
+  margin-left: 10px;
+}
